@@ -8,5 +8,5 @@ The application is indented to respond to the needs of retail stores, fast-food 
 
 It has modules for easily integrate it to different payment systems, loyalty systems, printers and backend systems.
 
-![Sellastic Simple Diagram](https://github.com/Sellastic/sellastic.app/blob/main/profile/sellastic_simple_diagram.jpg)
+![Sellastic Simple Diagram](https://github.com/Sellastic/.github/blob/main/profile/sellastic_simple_diagram.jpg)
 
