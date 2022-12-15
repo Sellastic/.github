@@ -1,4 +1,4 @@
-![Sellastic logo](https://github.com/Sellastic/sellastic.app/blob/main/logo_small.png)
+![Sellastic logo](https://raw.githubusercontent.com/Sellastic/sellastic.app/main/logo_small.png)
 
 # sellastic.app
 
