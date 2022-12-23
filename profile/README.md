@@ -1,8 +1,10 @@
 ![Sellastic logo](https://raw.githubusercontent.com/Sellastic/sellastic.app/main/logo_small.png)
 
-# sellastic.app
+**Point-of-Sales** is a critical part of today's business, It's where the retail transaction is completed. The process has to be smooth and fast to ensure customer satisfaction and it has to be optimized to help the business keep track of its resources.
 
-### Open Source Touch Screen Point-of-Sale Application
+Point-of-Sales systems are used everywhere for retails and hospitality businesses, from small shops, restaurants, cafes, bars, hospitals, hotels, malls, pharmacies to chain stores and restaurants. Running a business isn't easy, and especially so for retailers, restaurant owners, and others who have a brick-and-mortar storefront. Managing purchases and cash flow, keeping inventory stocked, making sure your employees are happy, and above all else serving your customers needs requires dedication, a solid business plan, and a bit of luck to be successful. However, some of them cost much with a much higher cost for installation, maintenance, and support. That's why we aim and hope to help businesses with the open source free "**Point of Sales**" system.
+
+# sellastic
 
 The application is indented to respond to the needs of retail stores, fast-food restaurants as well as of a chain of restaurants. It includes the features to manage daily sales operations as well as a customized view for managers and authorized staff to track statistics, update prices and products. It has a user-friendly interface, mainly oriented to using screen and minimum keyboard input, very easy to use and It provides a lot of flexibility and maintainability. It is designed as that expansion might happen. 
 
