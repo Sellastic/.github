@@ -12,6 +12,28 @@ It has modules for easily integrate it to different payment systems, loyalty sys
 
 ![Sellastic Simple Diagram](https://github.com/Sellastic/.github/blob/main/profile/sellastic_simple_diagram.jpg)
 
+# Contributors
+Thanks a lot Thanks to our [contributors](https://github.com/Sellastic/sellastic.app/graphs/contributors) for spending your time helping!
+
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/ferhat-mousavi">
+            <img src="https://avatars.githubusercontent.com/u/5930760?v=4" width="100;" alt="Ferhat Mousavi"/>
+            <br />
+            <sub><b>Ferhat Mousavi</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ezgii-ozgur">
+            <img src="https://avatars.githubusercontent.com/u/58365834?v=4" width="100;" alt="Ezgi Özgür"/>
+            <br />
+            <sub><b>Ezgi Özgür</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
 ### Donation and Support 
 If you like the project and want to support it or if you want to contribute to the development of new modules, you can donate to the following crypto addresses.
 
