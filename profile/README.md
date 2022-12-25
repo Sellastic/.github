@@ -12,7 +12,7 @@ It has modules for easily integrate it to different payment systems, loyalty sys
 
 ![Sellastic Simple Diagram](https://github.com/Sellastic/.github/blob/main/profile/sellastic_simple_diagram.jpg)
 
-# Contributors
+## Contributors
 Thanks a lot to our contributors for spending their time for developing!
 
 <table>
