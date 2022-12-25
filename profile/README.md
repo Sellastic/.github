@@ -13,7 +13,7 @@ It has modules for easily integrate it to different payment systems, loyalty sys
 ![Sellastic Simple Diagram](https://github.com/Sellastic/.github/blob/main/profile/sellastic_simple_diagram.jpg)
 
 # Contributors
-Thanks a lot Thanks to our [contributors](https://github.com/Sellastic/sellastic.app/graphs/contributors) for spending your time helping!
+Thanks a lot to our [contributors](https://github.com/Sellastic/sellastic.app/graphs/contributors) for spending your time helping!
 
 <table>
 <tr>
