@@ -1,4 +1,4 @@
-![Sellastic logo](https://raw.githubusercontent.com/Sellastic/sellastic.app/main/logo_small.png)
+![Sellastic logo](https://raw.githubusercontent.com/Sellastic/.github/main/profile/logo.png)
 
 **Point-of-Sales** is a critical part of today's business, It's where the retail transaction is completed. The process has to be smooth and fast to ensure customer satisfaction and it has to be optimized to help the business keep track of its resources.
 
