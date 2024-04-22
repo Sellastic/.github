@@ -33,9 +33,9 @@ Thanks a lot to our contributors for spending their time for developing!
     </td>
     <td align="center">
         <a href="https://github.com/srknbyrm">
-            <img src="https://avatars.githubusercontent.com/u/45545673?v=4" width="100;" alt="Ezgi Özgür"/>
+            <img src="https://avatars.githubusercontent.com/u/45545673?v=4" width="100;" alt="Serkan Bayram"/>
             <br />
-            <sub><b>Ezgi Özgür</b></sub>
+            <sub><b>Serkan Bayram</b></sub>
         </a>
     </td>
     <td align="center">
