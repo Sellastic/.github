@@ -40,16 +40,16 @@ Thanks a lot to our contributors for spending their time for developing!
     </td>
     <td align="center">
         <a href="https://github.com/berkdlkc">
-            <img src="https://avatars.githubusercontent.com/u/115986833?s=64&v=4" width="100;" alt="Ezgi Özgür"/>
+            <img src="https://avatars.githubusercontent.com/u/115986833?s=64&v=4" width="100;" alt="Berk Dalkılıç"/>
             <br />
-            <sub><b>Ezgi Özgür</b></sub>
+            <sub><b>Berk Dalkılıç</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/alimertcan">
-            <img src="https://avatars.githubusercontent.com/u/14938957?s=64&v=4" width="100;" alt="Ezgi Özgür"/>
+            <img src="https://avatars.githubusercontent.com/u/14938957?s=64&v=4" width="100;" alt="Ali Mertcan Tekin"/>
             <br />
-            <sub><b>Ezgi Özgür</b></sub>
+            <sub><b>Ali Mertcan Tekin</b></sub>
         </a>
     </td>
 </tr>
