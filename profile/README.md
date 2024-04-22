@@ -31,6 +31,27 @@ Thanks a lot to our contributors for spending their time for developing!
             <sub><b>Ezgi Özgür</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/srknbyrm">
+            <img src="https://avatars.githubusercontent.com/u/45545673?v=4" width="100;" alt="Ezgi Özgür"/>
+            <br />
+            <sub><b>Ezgi Özgür</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/berkdlkc">
+            <img src="https://avatars.githubusercontent.com/u/115986833?s=64&v=4" width="100;" alt="Ezgi Özgür"/>
+            <br />
+            <sub><b>Ezgi Özgür</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/alimertcan">
+            <img src="https://avatars.githubusercontent.com/u/14938957?s=64&v=4" width="100;" alt="Ezgi Özgür"/>
+            <br />
+            <sub><b>Ezgi Özgür</b></sub>
+        </a>
+    </td>
 </tr>
 </table>
 
